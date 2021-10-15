@@ -1,0 +1,227 @@
+@media (min-width:320px) and (max-width:1024px){
+    #header-top {
+        width: 100%;
+       height: auto;
+    }
+    #header-top .ads-728-90 {
+        width: 100%;
+        height: auto;
+    }
+    #header-top .ads-728-90 a img{
+        width: 100%;
+        height: auto;
+    }
+    #header-center {
+        width: 100%;
+        display: inline-block;
+    }
+    #header-center .logo{
+        text-align: center;
+        float: none;
+        height: auto;
+        
+    }
+    #header-center .logo a img{
+        width: 200px;
+        height: 60px;
+    }
+    #header-center .search{
+        display: none;
+        
+    }
+    #header-bottom .menu ul{
+        display: none;
+    }
+    .toggle{
+        display: block;
+    }
+
+    #slide {
+        width: 100%;
+        height: auto;
+        margin-top: 15px;
+    }
+    #slide .container{
+        background-color: #eeeded;
+        padding: 0px 5px;
+    }
+    #slide .breacking{
+        float: none;
+        display: inline;
+        line-height: 30px;
+    }
+    #slide .next{
+        float: none;
+        display: inline;
+        
+    }
+
+    main .home{
+        width: 100%;
+        height: auto;
+    }
+    main .home .archive{
+        width: 100%;
+        
+        height: auto;
+    }
+    main .home .last-post{
+        width: 100%;
+        height: auto;
+        text-align: center;
+        margin: 15px 0px;
+    }
+    main .home .popular-post{
+        width: 100%;
+        text-align: center;
+       
+    }
+    main .home .popular-post article{
+        margin:10px 0px
+    }
+
+    main .ad-970-250{
+        width: 100%;
+        height: auto;
+    }
+    main .ad-970-250 .container{
+        text-align: center;
+        width: 80%;
+        height: auto;
+    }
+    main .ad-970-250 .container img{
+        
+        width: 100%;
+        height: auto;
+    }
+    main .eco{
+       
+        height: auto;
+        width: 100%;
+    
+    }
+    main .eco .container{
+        height: auto;
+    }
+    main .eco .container .economy{
+        width: 100%;
+        height: auto;
+    }
+    main .eco .container .economy .parent .large{
+        width: 100%;
+        height: auto;
+        text-align: center;
+        margin: 10px 0px;
+    }
+   
+    main .eco .container .economy .parent .small-article{
+        width: 100%;
+        height: auto;
+        text-align: center;
+        margin-top: 10px;
+    }
+    main .eco .container .ad-300-600{
+        width: 100%;
+        height: auto;
+        text-align: center;
+    }
+
+    main .health .container .articles{
+        width: 100%;
+        height: 800px;
+    }
+    
+    main .health .container .articles .art1{
+        width: 99%;
+        height: auto;
+        position: relative;
+    }
+    main .health .container .articles .art1 .para h2{
+        font-size: 20px;
+    }
+   
+    main .health .container .articles .art{
+        width: 100%;
+        height: auto;
+        
+    }
+    main .health .container .articles .art article .para h2{
+        font-size: 20px;
+    }
+
+
+
+
+    main .sport .container .all{
+        
+        width: 100%;
+        height: 800px;
+       
+    }
+    main .sport .container .all .art-s{
+        width: 100%;
+       height: 40%;
+        
+    }
+    main .sport .container .all .art-s .img{
+        width: 100%;
+        height: 100%;
+       
+    }
+    main .sport .container .all .art-s .img a img{
+        width: 100%;
+        height: 100;
+    }
+    main .sport .container .all .arts-s{
+        width: 100%;
+        height: 50%;
+    }
+    #footer-top{
+        width: 100%;
+        height: auto;
+    }
+    #footer-top .container{
+        padding: 20px 0px;
+    }
+    #footer-top .container .about{
+        width: 80%;
+        height: auto;
+       text-align: center;
+    }
+    #footer-top .container .recent-post{
+        width: 80%;
+        height: auto;
+        text-align: center;
+    }
+    #footer-top .container nav{
+        width: 80%;
+        height: auto;
+        text-align: center;
+    }
+    #footer-top .container .search{
+        width: 80%;
+        height: auto;
+        text-align: center;
+    }
+    #footer-bottom{
+        height: auto;
+    }
+    #footer-bottom .container .copyright{
+        float: none;
+        text-align: center;
+        
+    }
+    #footer-bottom .container nav{
+
+        float: none;
+        width: 100%;
+        height: auto;
+        padding: 20px 0px;
+        text-align: center;
+    }
+    #footer-bottom .container nav ul li{
+        float: none;
+    }
+  
+    
+}
